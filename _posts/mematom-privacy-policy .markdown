@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privacy Policy of Mematom
+title: "Privacy Policy of Mematom"
 permalink: mematom-privacy-policy
 date: 2019/1/15 00:00:00
 
